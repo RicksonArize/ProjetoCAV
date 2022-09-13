@@ -4,7 +4,7 @@
 
 - @RicksonArize
 
-
 ## Stacks Usadas
 
 - HTML
+- CSS
